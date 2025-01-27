@@ -1,4 +1,4 @@
-#Real-Time Competitor Strategy tracker for E-Commerce
+Real-Time Competitor Strategy tracker for E-Commerce
 
 Project Overview
 
