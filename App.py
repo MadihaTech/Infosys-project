@@ -11,6 +11,7 @@ from statsmodels.tsa.arima.model import ARIMA
 from transformers import pipeline
 import nltk
 from nltk.sentiment import SentimentIntensityAnalyzer
+import transformers
 
 # ✅ Download the VADER lexicon (needed for sentiment analysis)
 nltk.download('vader_lexicon')
